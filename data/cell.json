@@ -1,0 +1,124 @@
+{
+  "<start>":[
+    "<alerte> <etat> <marqueur> <action> <cell>.",
+       "<etat>  <marqueur> <action> <cell>. <rejoindre> <via>.",
+      "<cells> <state>. <rejoindre> <via>.",
+       "<cells> <state>. <rejoindre> <via>. <endinghash>",
+    "<marqueur> <action> <cell>. <rejoindre> <via>. <endinghash>",
+      
+      "<cells> <state>.",
+      
+      "<cells> <state>.<endinghash> "
+      
+      
+      
+      
+      
+  ],
+    
+    "<endinghash>":[ "<end> <hashtag>", "<hashtag> <hashtag> <hashtag>", "<hashtag>"
+                 
+                 
+  ],
+  "<alerte>":[
+    "AVIS À TOUS!!",
+    "Shit de shit!",
+      "Oyé Oyé!",
+      "Bonnnnnn....",
+      "FUCK!!!!!!",
+      "Alerte rouge!",
+      "**CELL PERDU***"
+    
+  ],
+  "<etat>":[
+    "J’suis vraiment en maudine.",
+    "Plein d’argent aux poubelles.",
+      "Je ne suis pas super content.",
+      "Je déteste ma vie.",
+      "Ça prenait ça dans ma journée."
+    
+  ],
+  "<marqueur>":[
+    "Je viens juste",
+      "Aujourd'hui, c'était à mon tour",
+       "Ça fait que je viens juste",
+      "Euh...Je viens"
+      
+      
+   
+  ],
+  "<action>":[
+    "de casser ",
+    "de perdre ",
+    "d’échapper ",
+    "d’oublier"
+   
+  ],
+  "<cell>":[
+    "mon cell",
+    "mon cellulaire",
+    "mon CELL",
+    "mon esti de cellulaire",
+    "mon Iphone",
+    "mon SAMSUNG À MARDE",
+    "mon téléphone",
+     "mon cellulotron"
+   
+  ],
+  "<cells>":[
+    "Mon cell",
+    "Mon cellulaire",
+    "Mon CELL",
+    "Mon %$#!& de cellulaire",
+    "Mon Iphone",
+    "Mon cellllllll",
+    "Mon téléphone"
+  ],
+  "<state>":[
+    "est mort",
+    "vient de mourir",
+    "vient de rendre l'âme",
+    "est dead",
+    "ne fonctionne plus",
+    "est clairement brisé"
+  ],
+     "<rejoindre>":[
+    "SVP, me rejoindre",
+    "Si vous devez me contacter, faites-le",
+    "Pour me joindre, ce sera",
+    "Je suis joignable",
+    "Vous pouvez désormais me contacter",
+    "Jusqu'à nouvelle ordre, écrivez moi"
+  ],
+     "<via>":[
+    "sur facebook",
+    "sur fb",
+    "ici ou par courriel",
+    "dans ma boîte privée",
+    "en PV",
+    "sur facebook pour un petit moment"
+   
+  ],
+    
+     "<end>":[
+    "MERCI!",
+    "Passez le message!",
+    "#jaimelavie",
+    "#pasdechance",
+    "Faites circuler!!!",
+    "Merciiiiii!."
+   
+  ],
+    
+     "<hashtag>":[
+    "#côlik",
+    "#CarpeDiem",
+    "#QqunAunCellGratuit?",
+    "#fuckAPPLE",
+    "#hatemylife",
+    "Merciiiiii!.",
+         "#perdresontemps"
+         
+   
+  ]
+}
