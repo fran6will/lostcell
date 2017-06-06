@@ -2,7 +2,7 @@ var json;
 function preload() {
 
   
-  json = loadStrings('/data/cell.json');
+  json = loadStrings('data/cell.json');
 }
 
 var generator;
