@@ -38,7 +38,7 @@ function setup() {
      ligneh.style("max-width", "500px");
     
 
-    var logofb = createImg('/fb.png');
+    var logofb = createImg('fb.png');
     logofb.parent(ligneh);
     logofb.style("float", "right");
     
